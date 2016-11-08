@@ -240,14 +240,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CXRHumanResources.exe" size="2486272">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CXRHumanResources.exe" size="2460160">
       <assemblyIdentity name="CXRHumanResources" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>yOpKmPzunatxbDIr7w0GMN+blnU=</dsig:DigestValue>
+        <dsig:DigestValue>E07XoE0ID0iQejLUKLqohgw9kSY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -624,14 +624,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="HRMBLL.dll" size="817152">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="HRMBLL.dll" size="820224">
       <assemblyIdentity name="HRMBLL" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>NiiWy0J5+W4ggcCvUgAkCJjjUGc=</dsig:DigestValue>
+        <dsig:DigestValue>ulB+6vfftszcYdZknsqgzcRDa7M=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -643,7 +643,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>X78xLeJgD+e5Ia7FaL6mjs0Bwcg=</dsig:DigestValue>
+        <dsig:DigestValue>8NIeKiB2QyJqQ2cFQHEMCicv7tc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
