@@ -260,14 +260,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CXRHumanResources.exe" size="2444288">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CXRHumanResources.exe" size="2458112">
       <assemblyIdentity name="CXRHumanResources" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>jEpOrDgEUJSOksw47s99/QbjQ/M=</dsig:DigestValue>
+        <dsig:DigestValue>CPAvY7ciSIg44fxSlBF6V5xQgLI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -284,26 +284,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="HRMBLL.dll" size="820224">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="HRMBLL.dll" size="820736">
       <assemblyIdentity name="HRMBLL" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>6XiqV8HX7wiI9RQKxJ233hweckk=</dsig:DigestValue>
+        <dsig:DigestValue>lRPdYO/3m7GfBbnGsbUiBVx6RUg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="HRMDAL.dll" size="359936">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="HRMDAL.dll" size="361984">
       <assemblyIdentity name="HRMDAL" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>1CFJFrFZMMrwKmupFWbxHV59AGk=</dsig:DigestValue>
+        <dsig:DigestValue>DUzHiVku1SwgAFKd7S73T490/Yw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -315,7 +315,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>lXiFOZANdliXyZIIFF9iQakEp8w=</dsig:DigestValue>
+        <dsig:DigestValue>Iw4rFFkvTHIH3ix4dmVDsaQ8GBQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
