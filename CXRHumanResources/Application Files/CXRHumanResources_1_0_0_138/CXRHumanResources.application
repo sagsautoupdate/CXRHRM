@@ -14,14 +14,14 @@
     <framework targetVersion="4.0" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\CXRHumanResources_1_0_0_138\CXRHumanResources.exe.manifest" size="27909">
+    <dependentAssembly dependencyType="install" codebase="Application Files\CXRHumanResources_1_0_0_138\CXRHumanResources.exe.manifest" size="48978">
       <assemblyIdentity name="CXRHumanResources.exe" version="1.0.0.138" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>w/BwNl2SrZ1ji6fok+KnPQAlNB0=</dsig:DigestValue>
+        <dsig:DigestValue>RcBHiqbDZvM+2+T/nZXkPlsiYtQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
