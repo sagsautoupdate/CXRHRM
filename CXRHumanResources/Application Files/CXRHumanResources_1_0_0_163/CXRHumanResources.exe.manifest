@@ -235,14 +235,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CXRHumanResources.exe" size="2691584">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CXRHumanResources.exe" size="2692608">
       <assemblyIdentity name="CXRHumanResources" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>aomD8gcZyi1PUG60divvS91OtXE=</dsig:DigestValue>
+        <dsig:DigestValue>d8YqaGhIpb1v2w6TqvzRIUcwwkc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
